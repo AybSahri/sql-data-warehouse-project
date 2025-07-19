@@ -40,5 +40,5 @@ Build a scalable and efficient data warehouse that supports reliable analytical 
 
 Hello, I’m Ayoub, a Data Analyst and Junior Data Scientist with a focus on SQL, Python, and data warehousing. I enjoy building clean, scalable data solutions to extract meaningful insights for businesses. I hold a Master's in Big Data and Cloud Computing and have hands-on experience in ETL processes, data modeling, and analytics for practical projects. I am passionate about continuous learning and sharing knowledge through projects like this one.
 
-Feel free to connect with me on LinkedIn or reach out if you’d like to discuss data, analytics, or collaborations.
-https://www.linkedin.com/in/ayoubsahri/
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/ayoubsahri/) or reach out if you’d like to discuss data, analytics, or collaborations.
+
