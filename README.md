@@ -1,7 +1,8 @@
 # Data Warehouse and Analytical Project
 
 ## Overview
-Building a SQL Data Warehouse through ETL processes, effective data modeling, and analytical querying to deliver business insights. This project covers the full data lifecycle from data extraction and transformation to loading, schema design, and running queries for reporting.
+Welcome to the **Data Warehouse and Analytical Project** repository!
+This project builds a SQL Data Warehouse through ETL processes, effective data modeling, and analytical querying to deliver business insights. It covers the full data lifecycle, from data extraction and transformation to loading, schema design, and executing queries for reporting and analysis.
 
 ---
 
